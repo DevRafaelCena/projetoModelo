@@ -1,0 +1,2 @@
+# projetoModelo
+modelo para typescript
